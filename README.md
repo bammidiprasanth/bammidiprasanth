@@ -1,8 +1,8 @@
 👋 Hi there, I'm Prasanth Sai Bammidi!
 ---
 
-⚙️ Actively building real-world data analytics projects to strengthen my practical expertise.  
-📊 This profile reflects my journey of turning data into insights, showcasing consistent learning, analytical skills and results-driven mindset.
+❇️ Actively building real-world data analytics projects to strengthen my practical expertise.  
+❇️ This profile reflects my journey of turning data into insights, showcasing consistent learning, analytical skills and results-driven mindset.
 
 ### 🚀 Tools & Technologies
 - **Excel | SQL | Power BI | Python**
